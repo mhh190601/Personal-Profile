@@ -1,6 +1,6 @@
 # mhr
 
-学生 · 广东 · 对不少技术都感兴趣，正在探索方向  
+学生 · 广东 · 对不少技术都感兴趣，正在探索新方向  
 Student · Guangdong · Interested in many technical topics, still exploring
 
 ---
